@@ -4,7 +4,7 @@ Eatopia 프로젝트에서 사용한 데이터들의 전처리 과정이 있는 
 
 
 ## File
-* `인천광역시_일반음식점 현황_20221230.csv`: 크롤링 하기 위한 기반으로 사용한 음식점 데이터. 다운로드 링크: https://www.data.go.kr/data/15048906/fileData.do?recommendDataYn=Y
+* `인천광역시_일반음식점 현황_20221230.csv`: 크롤링 하기 위한 기반으로 사용한 공공데이터 포털의 음식점 데이터. https://www.data.go.kr/data/15048906/fileData.do?recommendDataYn=Y
 
 * `restaurant.ipynb`:  `인천광역시_일반음식점 현황_20221230.csv` 전처리와 크롤링 코드 테스트  
 
